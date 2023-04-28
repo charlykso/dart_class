@@ -1,3 +1,3 @@
-void main(List<String> arguments) {
-  print('Hello world!');
+void main() {
+  print('This is the first class');
 }
